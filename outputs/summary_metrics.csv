@@ -1,0 +1,4 @@
+name,n,intent_accuracy,intent_macro_f1,escalate_accuracy,escalate_precision,escalate_recall,escalate_f1,mean_judge_score
+agent,200,0.755,0.7461954985284032,0.84,0.9117647058823529,0.5166666666666667,0.6595744680851063,4.225
+baseline_trivial,200,0.345,0.06412639405204461,0.7,0.0,0.0,0.0,2.45
+baseline_simple,200,0.61,0.4671798406862745,0.7,0.0,0.0,0.0,2.15
