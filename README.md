@@ -16,7 +16,8 @@ defeat the point of automation).
 pip install -r requirements.txt
 export GEMINI_API_KEY="your-key-here"      # Windows PowerShell: $env:GEMINI_API_KEY="..."
 ```
-Download the dataset from Kaggle (`thoughtvector/customer-support-on-twitter`),
+Download the dataset from Kaggle
+([thoughtvector/customer-support-on-twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter)),
 place `twcs.csv` in `data/`.
 
 Model note: `config.py` uses `gemini-flash-lite-latest`. Google's free tier rate-limits
